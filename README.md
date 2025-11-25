@@ -1,3 +1,4 @@
+
 Poco F7 / Redmi Turbo 4 Pro Extreme Undervoltage and increase performance
 # ⚠️ DISCLAIMER & WARNING - READ BEFORE PROCEEDING ⚠️
 
@@ -24,3 +25,12 @@ Poco F7 / Redmi Turbo 4 Pro Extreme Undervoltage and increase performance
     * I recommend keeping **Joyose** and **Powerkeeper** enabled for thermal safety.
 
 **YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.**
+Table profile stock and UV here :
+![1074](https://github.com/user-attachments/assets/274f9b63-587f-453e-9eb0-a6ae1a512b33)
+**Instructions**
+Install the Konabess v0.27.apk and run
+Choose 0 for Snapdragon 8s Elite (Gen 4)
+Choose Speed Bin 2 (0xf2) for change frequency and voltage Level
+**Backup vendor_boot.img first** and copy to your PC
+Edit like my profile - or add +1 Level Voltage when you do at first time
+Repack and apply, do the reboot at same.
